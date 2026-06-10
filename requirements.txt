@@ -3,3 +3,4 @@ requests
 certifi
 python-whois
 dnspython
+python-dotenv
